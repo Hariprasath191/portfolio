@@ -1,6 +1,6 @@
 # ❄️Portfolio❄️
 
-## ✨[Click here👆🏻](https://github.com/Hariprasath191) to view my portfolio website✨
+## ✨[Click here👆🏻](https://hariprasath191.github.io/portfolio/) to view my portfolio website✨
 
 ---
 
